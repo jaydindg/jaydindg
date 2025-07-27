@@ -53,7 +53,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🛠️ My Projects
-<p align="center">
+<p align="start">
   <a href="https://feathermarkagency.com" target="_blank">
     <img src="https://minio.feathermarkagency.com/feathermark-website/media/logos/FeatherMarkLogo-White-Trans.png" height="68" alt="Feathermark">
   </a>
