@@ -53,9 +53,24 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🛠️ My Projects
-<a href="https://feathermarkagency.com" target="_blank"> <img alt="feathermark" src="https://minio.feathermarkagency.com/feathermark-website/media/logos/FeatherMarkLogo-White-Trans.png" height="68" align="left"> </a>
-<a href="https://balmncalm.com" target="_blank"> <img alt="balmncalm" src="https://minio.feathermarkagency.com/feathermark-website/media/logos/bnc.svg"  height="68" align="left"> </a>
-<a href="https://nofajeeparmy.com" target="_blank"> <img alt="NOFA" src="https://minio.feathermarkagency.com/feathermark-website/media/logos/nofa-regular.png" height="68" align="left"> </a>
-<a href="https://homeplatterapp.com" target="_blank"> <img alt="homeplatter" src="https://minio.feathermarkagency.com/feathermark-website/media/logos/homeplatter.svg" height="68" align="left"> </a>
-<a href="https://sengkelogistics.com" target="_blank"> <img alt="sengkelogistics" src="https://minio.feathermarkagency.com/feathermark-website/media/logos/sengke.svg" height="68" align="left"> </a>
-<a href="https://maplebuddy.io" target="_blank"> <img alt="maplebuddy" src="https://minio.feathermarkagency.com/feathermark-website/media/logos/nextale.svg" height="68" align="left"> </a>
+<p align="center">
+  <a href="https://feathermarkagency.com" target="_blank">
+    <img src="https://minio.feathermarkagency.com/feathermark-website/media/logos/FeatherMarkLogo-White-Trans.png" height="68" alt="Feathermark">
+  </a>
+  <a href="https://balmncalm.com" target="_blank">
+    <img src="https://minio.feathermarkagency.com/feathermark-website/media/logos/bnc.svg" height="68" alt="Balm N Calm">
+  </a>
+  <a href="https://nofajeeparmy.com" target="_blank">
+    <img src="https://minio.feathermarkagency.com/feathermark-website/media/logos/nofa-regular.png" height="68" alt="NOFA">
+  </a>
+  <a href="https://homeplatterapp.com" target="_blank">
+    <img src="https://minio.feathermarkagency.com/feathermark-website/media/logos/homeplatter.svg" height="68" alt="HomePlatter">
+  </a>
+  <a href="https://sengkelogistics.com" target="_blank">
+    <img src="https://minio.feathermarkagency.com/feathermark-website/media/logos/sengke.svg" height="68" alt="Sengke Logistics">
+  </a>
+  <a href="https://maplebuddy.io" target="_blank">
+    <img src="https://minio.feathermarkagency.com/feathermark-website/media/logos/nextale.svg" height="68" alt="MapleBuddy">
+  </a>
+</p>
+
