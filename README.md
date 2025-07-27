@@ -62,3 +62,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   <li><a href="https://maplebuddy.io" target="_blank"><strong>MapleBuddy (NexTale)</strong></a> — Game companion and browser tools</li>
 </ul>
 
+### 🗒️ Notes 
+<ul>
+  <li><a href="https://github.com/jaydindg/vimwiki" target="_blank"><strong>VimWiki</strong></a> — Personal notes vault mostly for CS</li>
+</ul>
+
