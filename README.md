@@ -53,24 +53,12 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🛠️ My Projects
-<p align="start">
-  <a href="https://feathermarkagency.com" target="_blank">
-    <img src="https://minio.feathermarkagency.com/feathermark-website/media/logos/FeatherMarkLogo-White-Trans.png" height="68" alt="Feathermark">
-  </a>
-  <a href="https://balmncalm.com" target="_blank">
-    <img src="https://minio.feathermarkagency.com/feathermark-website/media/logos/bnc.svg" height="68" alt="Balm N Calm">
-  </a>
-  <a href="https://nofajeeparmy.com" target="_blank">
-    <img src="https://minio.feathermarkagency.com/feathermark-website/media/logos/nofa-regular.png" height="68" alt="NOFA">
-  </a>
-  <a href="https://homeplatterapp.com" target="_blank">
-    <img src="https://minio.feathermarkagency.com/feathermark-website/media/logos/homeplatter.svg" height="68" alt="HomePlatter">
-  </a>
-  <a href="https://sengkelogistics.com" target="_blank">
-    <img src="https://minio.feathermarkagency.com/feathermark-website/media/logos/sengke.svg" height="68" alt="Sengke Logistics">
-  </a>
-  <a href="https://maplebuddy.io" target="_blank">
-    <img src="https://minio.feathermarkagency.com/feathermark-website/media/logos/nextale.svg" height="68" alt="MapleBuddy">
-  </a>
-</p>
+<ul>
+  <li><a href="https://feathermarkagency.com" target="_blank"><strong>Feathermark Agency</strong></a> — Web design and business infrastructure</li>
+  <li><a href="https://balmncalm.com" target="_blank"><strong>Balm N Calm</strong></a> — Wellness and personal care products</li>
+  <li><a href="https://nofajeeparmy.com" target="_blank"><strong>NOFA Jeep Army</strong></a> — Off-road lifestyle & e-commerce</li>
+  <li><a href="https://homeplatterapp.com" target="_blank"><strong>HomePlatter</strong></a> — Kitchen and meal planning assistant</li>
+  <li><a href="https://sengkelogistics.com" target="_blank"><strong>Sengke Logistics</strong></a> — Shipping integration and logistics optimization</li>
+  <li><a href="https://maplebuddy.io" target="_blank"><strong>MapleBuddy (NexTale)</strong></a> — Game companion and browser tools</li>
+</ul>
 
