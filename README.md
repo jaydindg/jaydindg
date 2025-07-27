@@ -1,7 +1,7 @@
 ## What's up👋, I'm Jaydin!
 <a href='https://www.linkedin.com/in/jaydin-gulley-671065267'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/jaydindg/jaydindg/refs/heads/main/assets/linkedin.svg" height='18px'/></a>
-%%<a href='https://twitter.com/jaydindg/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/jaydindg/jaydindg/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-%%<a href='https://www.kaggle.com/jaydindg/'><img alt="kaggle" src="https://raw.githubusercontent.com/jaydindg/jaydindg/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<a href='https://twitter.com/jaydindg/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/jaydindg/jaydindg/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.kaggle.com/jaydindg/'><img alt="kaggle" src="https://raw.githubusercontent.com/jaydindg/jaydindg/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
@@ -29,7 +29,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/jaydindg/README_icons/refs/heads/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/jaydindg/README_icons/refs/heads/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/jaydindg/README_icons/refs/heads/main/language_and_tools/square/android/android.svg"> </a>
-%%<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/jaydindg/README_icons/refs/heads/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+<!-- <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/jaydindg/README_icons/refs/heads/main/language_and_tools/square/kotlin/kotlin.svg"></a> -->
 %%<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/jaydindg/README_icons/refs/heads/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://supabase.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/jaydindg/README_icons/refs/heads/main/language_and_tools/square/supabase/supabase.svg" alt="supabase" height ="42px"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/jaydindg/README_icons/refs/heads/main/language_and_tools/square/javascript/javascript.svg"> </a>
