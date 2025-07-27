@@ -54,7 +54,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🛠️ My Projects
 <ul>
-  <li><a href="https://feathermarkagency.com" target="_blank"><strong>Feathermark Agency</strong></a> — Web design and business infrastructure</li>
+  <li><a href="https://feathermarkagency.com" target="_blank"><strong>FeatherMark</strong></a> — Web design and business infrastructure</li>
   <li><a href="https://balmncalm.com" target="_blank"><strong>Balm N Calm</strong></a> — Wellness and personal care products</li>
   <li><a href="https://nofajeeparmy.com" target="_blank"><strong>NOFA Jeep Army</strong></a> — Off-road lifestyle & e-commerce</li>
   <li><a href="https://homeplatterapp.com" target="_blank"><strong>HomePlatter</strong></a> — Kitchen and meal planning assistant</li>
