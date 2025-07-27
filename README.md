@@ -66,6 +66,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🗒️ Notes 
 <ul>
-  <li><a href="https://github.com/jaydindg/vimwiki" target="_blank"><strong>VimWiki</strong></a> — Personal notes vault mostly for CS</li>
+  <li><a href="https://github.com/jaydindg/vimwiki/blob/main/README.md" target="_blank"><strong>VimWiki</strong></a> — Personal notes vault mostly for CS</li>
 </ul>
 
